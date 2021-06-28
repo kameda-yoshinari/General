@@ -10,3 +10,7 @@ If the error is still there, access to https://nbviewer.jupyter.org/ and type in
 It should work well.
 
 ![image](https://user-images.githubusercontent.com/45651568/123650828-e7f7b800-d865-11eb-8710-188f3b3c5577.png)
+
+**Resource**
+
+https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github
