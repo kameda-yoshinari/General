@@ -8,9 +8,9 @@ When you comes to the error "Sorry, something went wrong. Reload?", Reload the p
 
 If the error is still there, access to https://nbviewer.jupyter.org/ 
 
-![image](https://user-images.githubusercontent.com/45651568/123650828-e7f7b800-d865-11eb-8710-188f3b3c5577.png)
+![image](https://user-images.githubusercontent.com/45651568/123651909-cfd46880-d866-11eb-8982-f2d9c0ef1e13.png)
 
-And type in the URL. It should work well.
+And type in the URL like below. It should work well.
 
 ![image](https://user-images.githubusercontent.com/45651568/123651391-648a9680-d866-11eb-8675-39e73605620b.png)
 
