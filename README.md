@@ -4,7 +4,7 @@ Hello, Github.
 
 When you comes to the error "Sorry, something went wrong. Reload?", Reload the page later.
 
-![image](https://user-images.githubusercontent.com/45651568/123650636-b67eec80-d865-11eb-92fa-f1c9fed26d95.png)
+![image](https://user-images.githubusercontent.com/45651568/123652133-ff837080-d866-11eb-81ba-9ad20ac6ffca.png)
 
 If the error is still there, access to https://nbviewer.jupyter.org/ 
 
