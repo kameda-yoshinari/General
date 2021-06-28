@@ -2,7 +2,7 @@ Hello, Github.
 
 **Tips**
 
-When you comes to the error "Sorry, something went wrong. Reload?", Reload the page later.
+When you comes to the error "Sorry, something went wrong. Reload?", reload the page later.
 
 ![Reload?](https://user-images.githubusercontent.com/45651568/123652325-2b065b00-d867-11eb-8eda-c80bdcfd0eac.png)
 
